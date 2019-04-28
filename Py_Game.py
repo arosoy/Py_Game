@@ -22,7 +22,6 @@ def load_image(name, colorkey=None):
 def turning_step(ay):
     nch = [(-1, 0), (0, -1), (1, 0), (0, 1), (0, 0)]
     return nch[ay]
-#
 
 
 class Pers(pygame.sprite.Sprite):
