@@ -6,7 +6,8 @@ import random
 #
 
 
-# Функции:
+
+# Функции: Проба
 
 # обработка текстур
 def load_image(name, colorkey=None):
